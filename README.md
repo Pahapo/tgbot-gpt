@@ -1,1 +1,1 @@
-# tgbot-gpt
+# Telegram бот работающий с ChatGPT
